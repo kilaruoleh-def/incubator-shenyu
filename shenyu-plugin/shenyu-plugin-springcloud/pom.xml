@@ -27,7 +27,7 @@
 
     <properties>
         <spring-cloud-commons.version>2.2.0.RELEASE</spring-cloud-commons.version>
-        <spring-cloud-starter-netflix-ribbon.version>2.2.0.RELEASE</spring-cloud-starter-netflix-ribbon.version>
+        <spring-cloud-starter-netflix-ribbon.version>2.2.3.RELEASE</spring-cloud-starter-netflix-ribbon.version>
     </properties>
 
     <dependencies>
