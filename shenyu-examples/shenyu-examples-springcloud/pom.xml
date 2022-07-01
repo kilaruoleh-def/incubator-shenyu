@@ -28,7 +28,7 @@
     <artifactId>shenyu-examples-springcloud</artifactId>
 
     <properties>
-        <spring-cloud.version>2.2.0.RELEASE</spring-cloud.version>
+        <spring-cloud.version>3.0.6</spring-cloud.version>
     </properties>
 
     <dependencies>
