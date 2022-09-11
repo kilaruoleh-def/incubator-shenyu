@@ -37,7 +37,7 @@
     <properties>
         <metrics.target.directory>${project.basedir}/../target/plugins</metrics.target.directory>
         <prometheus.version>0.11.0</prometheus.version>
-        <prometheus.jmx.version>0.16.1</prometheus.jmx.version>
+        <prometheus.jmx.version>0.17.1</prometheus.jmx.version>
     </properties>
 
     <dependencies>
